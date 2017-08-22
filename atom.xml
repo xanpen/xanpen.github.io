@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xanpen.github.io/"/>
-  <updated>2017-08-22T10:09:33.000Z</updated>
+  <updated>2017-08-22T15:01:18.000Z</updated>
   <id>http://xanpen.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://xanpen.github.io/2017/08/22/%E9%9D%9E%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     <id>http://xanpen.github.io/2017/08/22/非技术人员如何理解机器学习/</id>
     <published>2017-08-22T00:08:24.000Z</published>
-    <updated>2017-08-22T10:09:33.000Z</updated>
+    <updated>2017-08-22T15:01:18.000Z</updated>
     
     <content type="html"><![CDATA[<!-- excerpt --></p>
 <h3 id="什么是机器学习？"><a href="#什么是机器学习？" class="headerlink" title="什么是机器学习？"></a>什么是机器学习？</h3><p>机器学习(Machine Learning 简写：ML)是一个利用计算机科学和统计学原理来创建统计模型的研究领域。而该统计模型通常被用来做两件事情：</p>
@@ -130,7 +130,11 @@
 <p><strong>思考：</strong> 我们经常会在模型的可解释性和可预测能力上做出权衡。神经网络很强大，但是它几乎无法解释。另一方面，简单线性回归相当容易理解，但是它通常上不是那么强大。问题是我们无法解释这些参数，那么我们是不是应该相信复杂的神经网络的预测结果呢？</p>
 <p>对于这些问题的回答显得至关重要。作为一般的经验法则，机器学习模型不得不在容易理解和更具预测力之间做出权衡。真正像神经网络这样强大的模型通常被称为<strong>黑盒</strong>因为我们不是十分确定它里面发生了什么，但是这些模型却可能极具预测力。</p>
 <p>这种权衡一般要依照当前问题的领域而定。利用神经网络预测谁应该被放出狱可能是一个很糟的主意，因为对于神经网络做出的这样的一个预测，我们真的很难去精确的理解：为什么会这样？另一方面，使用一个简单线性回归算法同样也是不太合适的，因为它的预测力显得太弱了。</p>
-<h3 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h3><p>人们趋向于把机器学习当做一种魔法，我希望从本文中你可以了解到事实不是这样的。假设这些模型（例如神经网络）是无所不知的，而且绝对可靠，可能回导致我们对其输出过于信任。了解建立模型有多少不同的组件可以让你更有机会看到模型输出中出现偏差和错误，所以这些输出在被信任之前应该给予足够的审视…</p>]]></content>
+<h3 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h3><p>人们趋向于把机器学习当做一种魔法，我希望从本文中你可以了解到事实不是这样的。假设这些模型（例如神经网络）是无所不知的，而且绝对可靠，可能回导致我们对其输出过于信任。了解建立模型有多少不同的组件可以让你更有机会看到模型输出中出现偏差和错误，所以这些输出在被信任之前应该给予足够的审视…</p>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><ul>
+<li><a href="http://www.ruanyifeng.com/blog/2017/07/neural-network.html" target="_blank" rel="external">神经网络入门</a> by  阮一峰</li>
+<li><a href="https://medium.com/safegraph/a-non-technical-introduction-to-machine-learning-b49fce202ae8" title="A Non-Technical Introduction to Machine Learning" target="_blank" rel="external">A Non-Technical Introduction to Machine Learning</a> by  Noah Yonack</li>
+</ul>]]></content>
     
     <summary type="html">
     
